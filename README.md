@@ -35,5 +35,20 @@ Main color tone: Red, Orange, Gray...
 
 
 ## 4. Design Point Refinement
+
+Surroundings: 18:00-24:00 (evening-night-early morning)
+
+Enviroment: Outdoor?? Public transport???
+
+Ambient sound: Vulgar language, indecent gestures, harassing phone calls...
+
+~~Everything is bigger than normal, especially the presence of NPCs (props)~~
+
+
+
+
+
+
+
 ## 5. Function Realization
 ## 6. Test
