@@ -14,6 +14,13 @@ For the subsequent construction of the overall scene
 Design two questionnaires, one for men and one for women, and use comparative questions to obtain the differences in how men and women view sexual harassment incidents.
 
 ## 3. Analysis Questionnaire
+
+Time to confirm the scene: **dusk or evening**
+
+The overall scene is determined to be **outdoors**
+
+
+
 ## 4. Design Point Refinement
 ## 5. Function Realization
 ## 6. Test
