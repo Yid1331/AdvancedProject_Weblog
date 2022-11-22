@@ -1,6 +1,6 @@
 # AdvancedProject Weblog 
 
-### Stage I. Subject Confirmation  
+### **Stage I. Subject Confirmation**  
 Literature study concludes: VR helps empathy  
 > ~~In past research, most of the VR scenes were the restoration of real scenes~~    
 
@@ -16,7 +16,7 @@ Few applications of VR technology to eliminate cognitive differences (empathy) b
 
 A questionnaire was designed to obtain typical scenarios of women encountering sexual harassment
 
-For the subsequent construction of the overall scene
+For the subsequent construction **of** the overall scene
 
 Design two questionnaires, one for men and one for women, and use comparative questions to obtain the differences in how men and women view sexual harassment incidents.
 
