@@ -38,7 +38,7 @@ Questionnaire 2
 
 <img src="https://user-images.githubusercontent.com/81423727/203317913-b7657dec-51f9-4b3a-8f97-3616b4feb93d.png" width="50%" height="50%">
 
-Questionnaire extraction design elements
+**Questionnaire extraction design elements**
 
 Time and Place: `dusk or evening`  `outdoors`
 
@@ -57,11 +57,11 @@ The overall atmosphere is finalized：
 
 ***
 
-### 4. Design Point Refinement
+### Stage IV. Design Point Refinement
 
 ### Environmental Elements
 
-Surroundings: 18:00-24:00 (evening-night-early morning)
+Surroundings: 18:00-24:00 (evening - night - early morning)
 
 Enviroment: Outdoor?? Public transport???
 
