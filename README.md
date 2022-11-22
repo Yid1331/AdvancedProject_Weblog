@@ -12,13 +12,20 @@ Few applications of VR technology to eliminate cognitive differences (empathy) b
 `Women are sexually harassed` --- Research Event
 ***
 
-### Stage II. Design Questionnaire
+### Stage II. Design Questionnaire  
+Two kinds of questionnaires, one for men and one for women   
+Questionnaire 1   
+- Find out the time, place, and scene when women were sexually harassed  
+- What types of sexual harassment are most prevalent
+- Feelings of being sexually harassed
+- Will it fight back, the way of counterattack?
+- How to heal?
 
-A questionnaire was designed to obtain typical scenarios of women encountering sexual harassment
-
-For the subsequent construction **of** the overall scene
+For the subsequent construction of the overall scene
 
 Design two questionnaires, one for men and one for women, and use comparative questions to obtain the differences in how men and women view sexual harassment incidents.
+
+***
 
 ### 3. Analysis Questionnaire
 
