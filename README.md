@@ -59,16 +59,12 @@ The overall atmosphere is finalized：
 
 ### Stage IV. Design Point Refinement
 
-### Environmental Elements
-
-Surroundings: 18:00-24:00 (evening - night - early morning)
-
-Enviroment: Outdoor?? Public transport???
-
-Ambient sound: Vulgar language, indecent gestures, harassing phone calls...
-
-~~Everything is bigger than normal, especially the presence of NPCs (props)~~  
-~~Roadside elements: naked male billboards sexually suggestive statements, random flirtatious passers-by in the distance~~
+**Environment**
+> Surroundings: 18:00-24:00 (evening - night - early morning)
+> Enviroment: Outdoor?? Public transport???
+> Ambient sound: Vulgar language, indecent gestures, harassing phone calls...
+> ~~Everything is bigger than normal, especially the presence of NPCs (props)~~  
+> ~~Roadside elements: naked male billboards sexually suggestive statements, random flirtatious passers-by in the distance~~
 
 #### Event 1   City Scene  
 Harassing phone calls appear over time, family members urge home calls, there will always be some billboards  
