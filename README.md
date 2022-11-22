@@ -22,9 +22,13 @@ Questionnaire 1
 - Will it fight back, the way of counterattack?
 - How to heal?
 
-For the subsequent construction of the overall scene
+Questionnaire 2
+- What do men perceive as sexual harassment?
+- Why do you think women are more likely to experience sexual harassment?
+- Compare the differences between the two questionnaires
 
-Design two questionnaires, one for men and one for women, and use comparative questions to obtain the differences in how men and women view sexual harassment incidents.
+
+
 
 ***
 
