@@ -38,7 +38,9 @@ Questionnaire 2
 
 <img src="https://user-images.githubusercontent.com/81423727/203317913-b7657dec-51f9-4b3a-8f97-3616b4feb93d.png" width="50%" height="50%">
 
-When and where sexual harassment is typically experienced: `dusk or evening`  `outdoors`
+Questionnaire extraction design elements
+
+Time and Place: `dusk or evening`  `outdoors`
 
 
 
