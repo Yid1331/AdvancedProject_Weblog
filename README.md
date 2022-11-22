@@ -14,6 +14,7 @@ Few applications of VR technology to eliminate cognitive differences (empathy) b
 
 ### Stage II. Design Questionnaire  
 Two kinds of questionnaires, one for men and one for women   
+
 Questionnaire 1   
 - Find out the time, place, and scene when women were sexually harassed  
 - What types of sexual harassment are most prevalent
