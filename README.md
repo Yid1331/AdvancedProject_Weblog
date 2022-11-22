@@ -1,6 +1,6 @@
 # AdvancedProject Weblog 
 
-### **Stage I. Subject Confirmation**  
+### Stage I. Subject Confirmation  
 Literature study concludes: VR helps empathy  
 > ~~In past research, most of the VR scenes were the restoration of real scenes~~    
 
