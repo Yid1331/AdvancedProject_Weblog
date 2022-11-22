@@ -1,5 +1,4 @@
-## AdvancedProject Weblog 
-***
+# AdvancedProject Weblog 
 
 #### 1. Subject Confirmation
 
