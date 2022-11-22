@@ -2,8 +2,9 @@
 
 ### Stage I. Subject Confirmation  
 Literature study concludes: VR helps empathy  
-> ~~In past research, most of the VR scenes were the restoration of real scenes~~  
+> ~~In past research, most of the VR scenes were the restoration of real scenes~~    
 
+`don't do real environment`
 VR scenes are often used for psychotherapy or vocational training  
 Few applications of VR technology to eliminate cognitive differences (empathy) between men and women
 
