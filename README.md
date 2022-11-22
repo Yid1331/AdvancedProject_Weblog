@@ -47,16 +47,20 @@ Ambient sound: Vulgar language, indecent gestures, harassing phone calls...
 ~~Everything is bigger than normal, especially the presence of NPCs (props)~~  
 ~~Roadside elements: naked male billboards sexually suggestive statements, random flirtatious passers-by in the distance~~
 
-Event 1   City Scene
+#### Event 1   City Scene  
 Harassing phone calls appear over time, family members urge home calls, there will always be some billboards  
 
-Event 2  Outdoor
+#### Event 2  Outdoor  
 Encounter a threatening thing, a bunch of flies, just leave quickly
 
-Event 3  On the road
+#### Event 3  On the road  
 Passing a single-plank bridge, a very narrow alley,   
-there are moss on the wall (disgusting things), touching it will cause the handle to vibrate 
+there are moss on the wall (disgusting things), touching it will cause the handle to vibrate
 
+#### Event 4 
+Look up and down: searchlights  
+Make a sound, there will be more spotlights  
+Fear of being watched: spotlights, the eyes and evaluations of people around
 
 
 
