@@ -1,6 +1,6 @@
 # AdvancedProject Weblog 
 
-**#### 1. Subject Confirmation**
+#### 1. Subject Confirmation
 
 Literature study concludes: VR helps empathy
 
@@ -10,7 +10,7 @@ VR scenes are often used for psychotherapy or vocational training
 
 Few applications of VR technology to eliminate cognitive differences (empathy) between men and women
 
-## 2. Design Questionnaire
+#### 2. Design Questionnaire
 
 A questionnaire was designed to obtain typical scenarios of women encountering sexual harassment
 
@@ -18,7 +18,7 @@ For the subsequent construction of the overall scene
 
 Design two questionnaires, one for men and one for women, and use comparative questions to obtain the differences in how men and women view sexual harassment incidents.
 
-## 3. Analysis Questionnaire
+#### 3. Analysis Questionnaire
 
 Time to confirm the scene: **dusk or evening**
 
@@ -35,7 +35,7 @@ The overall atmosphere of the scene is finalized: loneliness, horror, barrenness
 Main color tone: Red, Orange, Gray...
 
 
-## 4. Design Point Refinement
+#### 4. Design Point Refinement
 
 ### Environmental Elements
 
@@ -71,5 +71,5 @@ Fear of being watched: spotlights, the eyes and evaluations of people around
 
 
 
-## 5. Function Realization
-## 6. Test
+#### 5. Function Realization
+#### 6. Test
