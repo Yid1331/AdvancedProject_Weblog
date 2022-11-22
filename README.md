@@ -110,6 +110,18 @@ Weather changes over time to produce dusk, night, morning
 
 > <img src="https://user-images.githubusercontent.com/81423727/203326216-9a29dbba-8dbd-40ff-abb1-987c53c380f8.png" width="50%" height="50%">
 
+**Interaction-Trigger System**
+
+Grab Stone
+> <img src="https://user-images.githubusercontent.com/81423727/203326830-1c1e2505-d850-4ce5-a2ec-a39ba9851bd0.png" width="50%" height="50%">
+
+Haptic System
+> <img src="https://user-images.githubusercontent.com/81423727/203327275-a1195698-81b0-4550-8406-436c98ad32dd.png" width="50%" height="50%">
+
+Searchlight
+![image](https://user-images.githubusercontent.com/81423727/203327474-36c4f87a-4059-47ed-98e8-215e0ea92cc3.png)
+
+
 
 
 
