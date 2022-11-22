@@ -30,7 +30,6 @@ Questionnaire 2
 [Questionnair PDF](https://github.com/Yid1331/AdvancedProject_Weblog/tree/main/Questionnaire)
 
 
-
 ***
 
 ### Stage III. Analysis Questionnaire
@@ -39,17 +38,13 @@ Questionnaire 2
 
 <img src="https://user-images.githubusercontent.com/81423727/203317913-b7657dec-51f9-4b3a-8f97-3616b4feb93d.png" width="50%" height="50%">
 
+When and where sexual harassment is typically experienced: `dusk or evening`  `outdoors`
 
 
 
 
 
 
-
-
-Time to confirm the scene: **dusk or evening**
-
-The overall scene is determined to be **outdoors**
 
 Difference 1: Survey shows that most men don't think looking girls up and down is considered sexual harassment; but the girls think it's sexual harassment.
 
@@ -61,6 +56,8 @@ The overall atmosphere of the scene is finalized: loneliness, horror, barrenness
 
 Main color tone: Red, Orange, Gray...
 
+
+***
 
 ### 4. Design Point Refinement
 
