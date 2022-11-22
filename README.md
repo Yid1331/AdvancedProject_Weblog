@@ -60,7 +60,7 @@ The overall atmosphere is finalized：
 ### Stage IV. Design Point Refinement
 
 **Environment**
-> Surroundings: 18:00-24:00 (evening - night - early morning)
+> Surroundings: 18:00-24:00 (evening - night - early morning ===>Dynamic Weather System)
 > 
 > Enviroment: Outdoor?? Public transport???
 > 
@@ -80,18 +80,10 @@ The overall atmosphere is finalized：
 > Passing a single-plank bridge, a very narrow alley,   
 > there are ~~moss~~ on the wall (disgusting things), touching it will cause `the handle to vibrate`
 
-### Event 4 
+#### Event 4 
 > Look up and down==> searchlights  
 > Make a sound, there will be more spotlights  
 > Fear of being watched: spotlights, the eyes and evaluations of people around
-
-
-
-
-
-
-
-
 
 ### 5. Function Realization
 ### 6. Test
