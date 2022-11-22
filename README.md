@@ -6,9 +6,11 @@ Literature study concludes: VR helps empathy
 
 VR scenes are often used for psychotherapy or vocational training  
 Few applications of VR technology to eliminate cognitive differences (empathy) between men and women
+
+**Women are sexually harassed** --- Research Event
 ***
 
-### 2. Design Questionnaire
+### Stage II. Design Questionnaire
 
 A questionnaire was designed to obtain typical scenarios of women encountering sexual harassment
 
