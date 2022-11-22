@@ -42,22 +42,18 @@ Questionnaire extraction design elements
 
 Time and Place: `dusk or evening`  `outdoors`
 
+Difference 1:   
+> Survey shows that most men don't think looking girls up and down is considered sexual harassment; but the girls think it's sexual harassment.
 
+Difference 2:   
+> Most men think that girls have the ability to fight back against sexual harassment???
 
+Tips:   
+> Women feel that seeking comfort from someone they trust can heal from sexual harassment
 
-
-
-
-Difference 1: Survey shows that most men don't think looking girls up and down is considered sexual harassment; but the girls think it's sexual harassment.
-
-Difference 2:Most men think that girls have the ability to fight back against sexual harassment???
-
-Women feel that seeking comfort from someone they trust can heal from sexual harassment
-
-The overall atmosphere of the scene is finalized: loneliness, horror, barrenness, desolation
-
-Main color tone: Red, Orange, Gray...
-
+The overall atmosphere is finalized：
+> loneliness, horror, barrenness, desolation
+> Main color tone: Red, Orange, Gray...
 
 ***
 
