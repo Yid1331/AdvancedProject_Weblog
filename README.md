@@ -1,6 +1,6 @@
 # AdvancedProject Weblog 
 
-### 1. Subject Confirmation
+### Stage I. Subject Confirmation
 
 Literature study concludes: VR helps empathy
 
