@@ -119,10 +119,12 @@ Haptic System
 > <img src="https://user-images.githubusercontent.com/81423727/203327275-a1195698-81b0-4550-8406-436c98ad32dd.png" width="50%" height="50%">
 
 Searchlight
-![image](https://user-images.githubusercontent.com/81423727/203327474-36c4f87a-4059-47ed-98e8-215e0ea92cc3.png)
+> <img src="https://user-images.githubusercontent.com/81423727/203327474-36c4f87a-4059-47ed-98e8-215e0ea92cc3.png" width="50%" height="50%">
 
+Bonfire
+> <img src="https://user-images.githubusercontent.com/81423727/203328428-1f873200-9802-4648-b47d-f960931ae2f0.png" width="50%" height="50%">
 
-
-
+Snow
+> <img src="https://user-images.githubusercontent.com/81423727/203328650-dae850c9-7fb5-46bc-85fb-9ac28d7f7f9a.png" width="50%" height="50%">
 
 ### 6. Test
