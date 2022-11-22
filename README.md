@@ -1,6 +1,6 @@
 # AdvancedProject Weblog 
 
-#### 1. Subject Confirmation
+**#### 1. Subject Confirmation**
 
 Literature study concludes: VR helps empathy
 
