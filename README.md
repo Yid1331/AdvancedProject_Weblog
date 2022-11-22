@@ -44,7 +44,7 @@ Enviroment: Outdoor?? Public transport???
 
 Ambient sound: Vulgar language, indecent gestures, harassing phone calls...
 
-~~Everything is bigger than normal, especially the presence of NPCs (props)~~
+~~Everything is bigger than normal, especially the presence of NPCs (props)~~  
 ~~Roadside elements: naked male billboards sexually suggestive statements, random flirtatious passers-by in the distance~~
 
 
