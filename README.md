@@ -91,9 +91,9 @@ The overall atmosphere is finalized：
 
 Use Blender to model the scene and props
 
-<img src="[https://user-images.githubusercontent.com/81423727/203317913-b7657dec-51f9-4b3a-8f97-3616b4feb93d.png](https://user-images.githubusercontent.com/81423727/203324295-e4a46389-e45a-4f70-8f60-d986cbb3b47e.png)" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/81423727/203324765-57798cad-ed38-4f53-a74b-6ad492218a5a.png" width="50%" height="50%">
 
-Export mesh and material
+Export mesh and material to Unreal Engine
 
 
 
