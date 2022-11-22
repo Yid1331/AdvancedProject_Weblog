@@ -71,7 +71,7 @@ The overall atmosphere is finalized：
 > ~~Roadside elements: naked male billboards sexually suggestive statements, random flirtatious passers-by in the distance~~
 
 #### Event 1     City Scene  
-> ~~Harassing phone calls appear over time, family members urge home calls, there will always be some billboards  ~~
+> ~~Harassing phone calls appear over time, family members urge home calls, there will always be some billboards~~
 
 #### Event 2    Outdoor  
 `Encounter a threatening thing, a bunch of flies, just leave quickly`
