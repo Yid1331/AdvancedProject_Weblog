@@ -70,7 +70,7 @@ The overall atmosphere is finalized：
 > 
 > ~~Roadside elements: naked male billboards sexually suggestive statements, random flirtatious passers-by in the distance~~
 
-#### Event 1     City Scene  
+#### ~~Event 1     City Scene~~  
 > ~~Harassing phone calls appear over time, family members urge home calls, there will always be some billboards~~
 
 #### Event 2    Outdoor  
@@ -80,7 +80,7 @@ The overall atmosphere is finalized：
 > Passing a single-plank bridge, a very narrow alley,   
 > there are ~~moss~~ on the wall (disgusting things), touching it will cause `the handle to vibrate`
 
-#### Event 4 
+#### Event 4   Interaction
 > Look up and down==> searchlights  
 > Make a sound, there will be more spotlights  
 > Fear of being watched: spotlights, the eyes and evaluations of people around
